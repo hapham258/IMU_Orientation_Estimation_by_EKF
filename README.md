@@ -26,7 +26,7 @@ still.log
   <img src="Pics/still.svg" alt="accessibility text">
 </p>
 <p align="center">
-  <img src="Pics/still.svg" alt="accessibility text">
+  <img src="Pics/still_.svg" alt="accessibility text">
 </p>
 
 xaxismove.log
@@ -34,7 +34,7 @@ xaxismove.log
   <img src="Pics/xaxismove.svg" alt="accessibility text">
 </p>
 <p align="center">
-  <img src="Pics/xaxismove.svg" alt="accessibility text">
+  <img src="Pics/xaxismove_.svg" alt="accessibility text">
 </p>
 
 zaxisturn.log
@@ -42,5 +42,5 @@ zaxisturn.log
   <img src="Pics/zaxisturn.svg" alt="accessibility text">
 </p>
 <p align="center">
-  <img src="Pics/zaxisturn.svg" alt="accessibility text">
+  <img src="Pics/zaxisturn_.svg" alt="accessibility text">
 </p>
