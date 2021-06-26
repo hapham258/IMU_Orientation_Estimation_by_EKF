@@ -1,5 +1,5 @@
 # IMU_Orientation_Estimation_by_EKF
-Orientation Estimation from Raw IMU Data (Gyroscope, Accelerometer, Magnetometer) using EKF, implemented in Matlab.
+Orientation Estimation from Raw IMU Data (Gyroscope, Accelerometer, Magnetometer) using EKF, implemented in MATLAB.
 
 ## Summary
 This work is part of my final project in the course Optimal Control, taught by Dr. Vinh-Hao Nguyen. Glad to receive 9.5/10.0 for this quaternion-based estimator :sunglasses:.
